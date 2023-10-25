@@ -1,0 +1,5105 @@
+True or False: Is the earth round? (TrueOrFalse) [2 marks]
+Choose One: What is the capital of France? (ChooseOne) [5 marks]
+Choose All: Which of the following are fruits? (ChooseAll) [10 marks]
+True or False: Is the earth round? (TrueOrFalse) [2 marks]
+Choose One: What is the capital of France? (ChooseOne) [5 marks]
+Choose All: Which of the following are fruits? (ChooseAll) [10 marks]
+True or False: Is the earth round? (TrueOrFalse) [2 marks]
+Choose One: What is the capital of France? (ChooseOne) [5 marks]
+Choose All: Which of the following are fruits? (ChooseAll) [10 marks]
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is the sky blue?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: What is the capital of France?
+Type: Multiple Choice
+Options:
+1. Berlin
+2. Paris
+3. London
+4. Madrid
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are prime numbers?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+Answers: 1, 2, 4
+
+Question:
+Marks: 3
+Body: What is the name of the largest ocean?
+Type: Short Answer
+Answer: Pacific
+
+Question:
+Marks: 1
+Body: Is Python a compiled language?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: What is the capital of Japan?
+Type: Multiple Choice
+Options:
+1. Beijing
+2. Tokyo
+3. Seoul
+4. Bangkok
+Answer: 2
+
+Question:
+Marks: 3
+Body: Which of the following are programming languages?
+Type: Choose All
+Options:
+1. Java
+2. Python
+3. Ruby
+4. Emerald
+Answers: 1, 2, 3
+
+Question:
+Marks: 3
+Body: What is the name of the smallest planet in our solar system?
+Type: Short Answer
+Answer: Mercury
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 3
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
+Question:
+Marks: 1
+Body: Is C# an object-oriented programming language?
+Type: True/False
+Answer: True
+
+Question:
+Marks: 1
+Body:  Can we obtain the array index using foreach loop in C#?
+Type: True/False
+Answer: False
+
+Question:
+Marks: 2
+Body: Which data type is used to store text value in C#?
+Type: Multiple Choice
+Options:
+1. text
+2. string
+3. txt
+4. str
+Answer: 2
+
+Question:
+Marks: 2
+Body: Which is not a valid C# data type?
+Type: Multiple Choice
+Options:
+1. long
+2. int
+3. float
+4. complex
+Answer: 4
+
+Question:
+Marks: 3
+Body: What is the correct syntax to declare a variable in C#?
+Type: Choose All
+Options:
+1. type variableName = value;
+2. type variableName;
+3. variableName as type = value;
+4. typevariable Name;
+Answers: 1, 2
+
+Question:
+Marks: 3
+Body: Which is/are the correct method(s) to input a float value in C#?
+Type: Choose All
+Options:
+1. ToFloat(Console.ReadLine());
+2. Parse(Console.ReadLine())
+3. ToSingle(Console.ReadLine())
+4. Toint(Console.ReadLine())
+Answers: 2, 3
+
+Question:
+Marks: 4
+Body: Which C# keyword is used to define a constant?
+Type: Short Answer
+Answer: const
+
+Question:
+Marks: 4
+Body: Which array property is used to get the total number of elements in C#?
+Type: Short Answer
+Answer: Length
+
